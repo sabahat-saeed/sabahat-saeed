@@ -25,10 +25,9 @@
 📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
  . Let's build amazing things together!
  
- <div style="background-color: white; display: inline-block; padding: 5px;">
-  <img src="life-cycle.png" alt="devops-life-cycle" />
- </div>
- ![#f03c15](life-cycle.png)
+ <p align="center">
+  <img src="life-cycle.png" alt="devops life cycle" style="background-color:#2e3136">
+ </p>
  <p align="center">
   <img src="cloud.png" alt="DevOps" height="50">
   <img src="docker.png" alt="Docker" height="50">
