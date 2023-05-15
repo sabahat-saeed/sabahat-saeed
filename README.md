@@ -28,6 +28,7 @@
  <div style="background-color: white; display: inline-block; padding: 5px;">
   <img src="life-cycle.png" alt="devops-life-cycle" />
  </div>
+ ![#f03c15](life-cycle.png)
  <p align="center">
   <img src="cloud.png" alt="DevOps" height="50">
   <img src="docker.png" alt="Docker" height="50">
