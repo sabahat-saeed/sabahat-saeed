@@ -25,9 +25,14 @@
 📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
  . Let's build amazing things together!
  
+ <img src="life-cycle.png" alt="DevOps life cycle">
  <p align="center">
-  <img src="cloud.png" alt="DevOps" height="100">
-  <img src="devops.png" alt="DevOps" height="100">
-  <img src="laravel.png" alt="Laravel" height="100">
-  <img src="flutter.png" alt="Flutter" height="100">
+  <img src="cloud.png" alt="DevOps" height="50">
+  <img src="docker.png" alt="Docker" height="50">
+  <img src="kubernetes.png" alt="kubernetes" height="50">
+  <img src="jenkins.png" alt="jenkins" height="50">
+  <img src="jira.png" alt="jira" height="50">
+  <img src="devops.png" alt="DevOps" height="50">
+  <img src="laravel.png" alt="Laravel" height="50">
+  <img src="flutter.png" alt="Flutter" height="50">
 </p>
