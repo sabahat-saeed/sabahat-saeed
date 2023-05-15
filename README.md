@@ -26,7 +26,7 @@
  . Let's build amazing things together!
  
  <p align="center">
-  <img src="life-cycle.png" alt="devops life cycle" style="background-color:#2e3136">
+  <img src="life-cycle.png" alt="devops life cycle" style="background-color:#878889">
  </p>
  <p align="center">
   <img src="cloud.png" alt="DevOps" height="50">
