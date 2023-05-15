@@ -26,7 +26,8 @@
  . Let's build amazing things together!
  
  <p align="center">
-  <img src="devops-logo.png" alt="DevOps Logo" height="100">
-  <img src="laravel-logo.png" alt="Laravel Logo" height="100">
-  <img src="flutter-logo.png" alt="Flutter Logo" height="100">
+  <img src="cloud.png" alt="DevOps" height="100">
+  <img src="devops.png" alt="DevOps" height="100">
+  <img src="laravel.png" alt="Laravel" height="100">
+  <img src="flutter.png" alt="Flutter" height="100">
 </p>
