@@ -25,7 +25,7 @@
 📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
  . Let's build amazing things together!
  
- <div style="background-color: white !important;">
+ <div style="background-color: white; display: inline-block; padding: 5px;">
   <img src="life-cycle.png" alt="devops-life-cycle" />
  </div>
  <p align="center">
