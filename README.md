@@ -34,7 +34,7 @@
   <img src="cloud.png" alt="DevOps" height="50">
   <img src="docker.png" alt="Docker" height="50">
   <img src="kubernetes.png" alt="kubernetes" height="50">
-  <img src="jenkins.png" alt="jenkins" height="50">
+  <img src="jenkins.png" alt="jenkins" height="100">
   <img src="jira.png" alt="jira" height="50">
   <img src="devops.png" alt="DevOps" height="50">
   <img src="linux.png" alt="Linux" height="50">
