@@ -31,13 +31,16 @@
   <img alt="devops life cycle" src="life-cycle.png">
 </picture>
  <p align="center">
-  <img src="cloud.png" alt="DevOps" height="50">
+  <img src="linux.png" alt="Linux" height="50">
+  <img src="gitlab.svg" alt="Linux" height="50">
+  <img src="maven.png" alt="Maven" height="50">
   <img src="docker.png" alt="Docker" height="50">
   <img src="kubernetes.png" alt="kubernetes" height="50">
   <img src="jenkins.png" alt="jenkins" height="100">
   <img src="jira.png" alt="jira" height="50">
+  <img src="cloud.png" alt="Cloud" height="50">
   <img src="devops.png" alt="DevOps" height="50">
-  <img src="linux.png" alt="Linux" height="50">
+  <img src="aws.png" alt="AWS" height="50">
   <img src="laravel.png" alt="Laravel" height="50">
   <img src="flutter.png" alt="Flutter" height="50">
 </p>
