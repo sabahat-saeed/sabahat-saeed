@@ -37,7 +37,7 @@
   <img src="jenkins.png" alt="jenkins" height="50">
   <img src="jira.png" alt="jira" height="50">
   <img src="devops.png" alt="DevOps" height="50">
-  <img src="linux.png" alt="DevOps" height="50">
+  <img src="linux.png" alt="Linux" height="50">
   <img src="laravel.png" alt="Laravel" height="50">
   <img src="flutter.png" alt="Flutter" height="50">
 </p>
