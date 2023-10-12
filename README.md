@@ -1,4 +1,4 @@
-👋 Hello! I'm Sabahat Saeed, an AWS DevOps engineer with 2 years of industry experience. I have a strong background in cloud infrastructure management and automation, ensuring seamless deployment and scalability for web and mobile applications.
+👋 Hello! I'm Sabahat Saeed, an Full Stack Developer with 2 years of industry experience. I have a strong background in cloud infrastructure management and automation, ensuring seamless deployment and scalability for web and mobile applications.
 
 💻 Tech Stack:
 - AWS: EC2, S3, RDS, Lambda, CloudFormation, CloudWatch, etc.
