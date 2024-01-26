@@ -4,55 +4,54 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 ## Operating System
 
-- **Linux** ![Linux](linux.png)
+- **Linux** <img src="linux.png" alt="Linux" width="50">
   - Description: Preferred operating system for development.
 
 ## Version Control and CI/CD
 
-- **GitLab** ![GitLab](gitlab.svg)
+- **GitLab** <img src="gitlab.svg" alt="GitLab" width="50">
   - Description: Version control and CI/CD platform.
-- **Jenkins** ![Jenkins](jenkins.png)
+- **Jenkins** <img src="jenkins.png" alt="Jenkins" width="50">
   - Description: Automation server for building, testing, and deploying code.
 
 ## Build and Dependency Management
 
-- **Maven** ![Maven](maven.png)
+- **Maven** <img src="maven.png" alt="Maven" width="50">
   - Description: Build automation and project management tool.
 
 ## Containerization and Orchestration
 
-- **Docker** ![Docker](docker.png)
+- **Docker** <img src="docker.png" alt="Docker" width="50">
   - Description: Containerization platform for packaging, distributing, and running applications.
-- **Kubernetes** ![Kubernetes](kubernetes.png)
+- **Kubernetes** <img src="kubernetes.png" alt="Kubernetes" width="50">
   - Description: Container orchestration for automating deployment, scaling, and management of containerized applications.
 
 ## Project Management and Issue Tracking
 
-- **Jira** ![Jira](jira.png)
+- **Jira** <img src="jira.png" alt="Jira" width="50">
   - Description: Project management and issue tracking tool.
 
 ## Cloud Services
 
-- **AWS** ![AWS](aws.png)
+- **AWS** <img src="aws.png" alt="AWS" width="50">
   - Description: Cloud computing platform offering a wide range of services.
-- **Cloud Services** ![Cloud](cloud.png)
+- **Cloud Services** <img src="cloud.png" alt="Cloud Services" width="50">
   - Description: General reference to cloud services.
 
 ## Web and Application Development
 
-- **Laravel** ![Laravel](laravel.png)
+- **Laravel** <img src="laravel.png" alt="Laravel" width="50">
   - Description: PHP framework for web application development.
-- **Flutter** ![Flutter](flutter.png)
+- **Flutter** <img src="flutter.png" alt="Flutter" width="50">
   - Description: UI toolkit for building natively compiled applications for mobile, web, and desktop.
-- **Symfony** ![Symfony](symfony.png)
+- **Symfony** <img src="symfony.png" alt="Symfony" width="50">
   - Description: PHP web application framework with a set of reusable PHP components.
 
 ## DevOps
 
-- **DevOps** ![DevOps](devops.png)
+- **DevOps** <img src="devops.png" alt="DevOps" width="50">
   - Description: Cultural and professional movement that emphasizes communication and collaboration between software development and IT operations teams.
 
 ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
 
-📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
- . Let's build amazing things together!
+📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-squa
