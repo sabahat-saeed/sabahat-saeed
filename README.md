@@ -51,7 +51,8 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 - **DevOps** <img src="devops.png" alt="DevOps" width="50">
   - Description: Cultural and professional movement that emphasizes communication and collaboration between software development and IT operations teams.
-
+    
 ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
 
-📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-squa
+📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
+ . Let's build amazing things together!
