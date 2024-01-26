@@ -1,71 +1,83 @@
-# 👋 Hello there! I'm Sabahat Saeed. 
+<div style="display: flex; justify-content: space-between;">
 
-Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
+  <div style="flex: 1; margin-right: 20px;">
 
-## 🌐 Web and Application Development
+    # 👋 Hello there! I'm Sabahat Saeed. 
 
-### **Symfony** 🚀
-   - Elevating PHP web development with elegance and efficiency.
+    Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
 
-### **Laravel** 🌐
-   - Crafting beautiful PHP applications with simplicity and power.
+    ## 🌐 Web and Application Development
 
-### **Flutter** 🚀
-   - Unleashing cross-platform magic for mobile, web, and desktop.
+    ### **Symfony** 🚀
+       - Elevating PHP web development with elegance and efficiency.
 
-## 🐧 Operating Systems
+    ### **Laravel** 🌐
+       - Crafting beautiful PHP applications with simplicity and power.
 
-### **Linux** 🐧
-   - My chosen realm for unleashing development wizardry.
+    ### **Flutter** 🚀
+       - Unleashing cross-platform magic for mobile, web, and desktop.
 
-### **macOS** 🍎
-   - A touch of Apple's charm for certain creative endeavors.
+    ## 🐧 Operating Systems
 
-## 🚀 Version Control and CI/CD
+    ### **Linux** 🐧
+       - My chosen realm for unleashing development wizardry.
 
-### **GitLab** 🦊
-   - Crafting code harmony with robust version control and CI/CD.
+    ### **macOS** 🍎
+       - A touch of Apple's charm for certain creative endeavors.
 
-### **Jenkins** ☁️
-   - Guiding code to the cloud with automated builds and deployments.
+    ## 🚀 Version Control and CI/CD
 
-## 🛠️ Build and Dependency Management
+    ### **GitLab** 🦊
+       - Crafting code harmony with robust version control and CI/CD.
 
-### **Maven** 🛠️
-   - Mastering the art of building and managing Java projects.
+    ### **Jenkins** ☁️
+       - Guiding code to the cloud with automated builds and deployments.
 
-## 🐳 Containerization and Orchestration
+  </div>
 
-### **Docker** 🐳
-   - Containerizing applications for seamless deployment.
+  <div style="flex: 1; margin-left: 20px;">
 
-### **Kubernetes** ☸️
-   - Orchestrating containers with finesse for scalable solutions.
+    ## 🛠️ Build and Dependency Management
 
-## ☁️ Infrastructure as Code
+    ### **Maven** 🛠️
+       - Mastering the art of building and managing Java projects.
 
-### **Terraform** 🌍
-   - Molding infrastructure like a sculptor, with code as my chisel.
+    ## 🐳 Containerization and Orchestration
 
-## 📊 Project Management and Issue Tracking
+    ### **Docker** 🐳
+       - Containerizing applications for seamless deployment.
 
-### **Jira** 📅
-   - Navigating the seas of project management with ease.
+    ### **Kubernetes** ☸️
+       - Orchestrating containers with finesse for scalable solutions.
 
-## ☁️ Cloud Services
+    ## ☁️ Infrastructure as Code
 
-### **AWS** ☁️
-   - Soaring into the clouds with a powerful suite of cloud services.
+    ### **Terraform** 🌍
+       - Molding infrastructure like a sculptor, with code as my chisel.
 
-### **Cloud Services** ☁️
-   - Exploring the ever-expanding universe of cloud technologies.
+    ## 📊 Project Management and Issue Tracking
 
-## 🚀 DevOps
+    ### **Jira** 📅
+       - Navigating the seas of project management with ease.
 
-### **DevOps** 🔄
-   - Bridging the gap between development and operations with finesse.
-   
-✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
+    ## ☁️ Cloud Services
 
-📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
- . Let's build amazing things together!
+    ### **AWS** ☁️
+       - Soaring into the clouds with a powerful suite of cloud services.
+
+    ### **Cloud Services** ☁️
+       - Exploring the ever-expanding universe of cloud technologies.
+
+    ## 🚀 DevOps
+
+    ### **DevOps** 🔄
+       - Bridging the gap between development and operations with finesse.
+       
+    ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
+
+    📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
+     . Let's build amazing things together!
+
+  </div>
+
+</div>
