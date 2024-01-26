@@ -1,9 +1,5 @@
 # 👋 Hello there! I'm Sabahat Saeed. 
-
 Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
-<!-- Add a scroll bar or fix height using HTML and CSS -->
-<div style="overflow-y: scroll; max-height: 400px;">
-   
 ## 🌐 Web and Application Development
 
 ### **Symfony** 🚀
