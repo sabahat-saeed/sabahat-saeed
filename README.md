@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1; margin-right 20px; !important">
 
     # 👋 Hello there! I'm Sabahat Saeed. 
 
@@ -35,7 +35,7 @@
 
   </div>
 
-  <div style="flex: 1; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px; !important">
 
     ## 🛠️ Build and Dependency Management
 
