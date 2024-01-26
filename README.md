@@ -1,83 +1,71 @@
-<div style="display: flex; justify-content: space-between;">
+# 👋 Hello there! I'm Sabahat Saeed. 
 
-  <div style="flex: 1; margin-right: 20px; width:50%">
+Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
 
-    # 👋 Hello there! I'm Sabahat Saeed. 
+## 🌐 Web and Application Development
 
-    Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
+### **Symfony** 🚀
+   - Elevating PHP web development with elegance and efficiency.
 
-    ## 🌐 Web and Application Development
+### **Laravel** 🌐
+   - Crafting beautiful PHP applications with simplicity and power.
 
-    ### **Symfony** 🚀
-       - Elevating PHP web development with elegance and efficiency.
+### **Flutter** 🚀
+   - Unleashing cross-platform magic for mobile, web, and desktop.
 
-    ### **Laravel** 🌐
-       - Crafting beautiful PHP applications with simplicity and power.
+## 🐧 Operating Systems
 
-    ### **Flutter** 🚀
-       - Unleashing cross-platform magic for mobile, web, and desktop.
+### **Linux** 🐧
+   - My chosen realm for unleashing development wizardry.
 
-    ## 🐧 Operating Systems
+### **macOS** 🍎
+   - A touch of Apple's charm for certain creative endeavors.
 
-    ### **Linux** 🐧
-       - My chosen realm for unleashing development wizardry.
+## 🚀 Version Control and CI/CD
 
-    ### **macOS** 🍎
-       - A touch of Apple's charm for certain creative endeavors.
+### **GitLab** 🦊
+   - Crafting code harmony with robust version control and CI/CD.
 
-    ## 🚀 Version Control and CI/CD
+### **Jenkins** ☁️
+   - Guiding code to the cloud with automated builds and deployments.
 
-    ### **GitLab** 🦊
-       - Crafting code harmony with robust version control and CI/CD.
+## 🛠️ Build and Dependency Management
 
-    ### **Jenkins** ☁️
-       - Guiding code to the cloud with automated builds and deployments.
+### **Maven** 🛠️
+   - Mastering the art of building and managing Java projects.
 
-  </div>
+## 🐳 Containerization and Orchestration
 
-  <div style="flex: 1; margin-left: 20px; width:50%">
+### **Docker** 🐳
+   - Containerizing applications for seamless deployment.
 
-    ## 🛠️ Build and Dependency Management
+### **Kubernetes** ☸️
+   - Orchestrating containers with finesse for scalable solutions.
 
-    ### **Maven** 🛠️
-       - Mastering the art of building and managing Java projects.
+## ☁️ Infrastructure as Code
 
-    ## 🐳 Containerization and Orchestration
+### **Terraform** 🌍
+   - Molding infrastructure like a sculptor, with code as my chisel.
 
-    ### **Docker** 🐳
-       - Containerizing applications for seamless deployment.
+## 📊 Project Management and Issue Tracking
 
-    ### **Kubernetes** ☸️
-       - Orchestrating containers with finesse for scalable solutions.
+### **Jira** 📅
+   - Navigating the seas of project management with ease.
 
-    ## ☁️ Infrastructure as Code
+## ☁️ Cloud Services
 
-    ### **Terraform** 🌍
-       - Molding infrastructure like a sculptor, with code as my chisel.
+### **AWS** ☁️
+   - Soaring into the clouds with a powerful suite of cloud services.
 
-    ## 📊 Project Management and Issue Tracking
+### **Cloud Services** ☁️
+   - Exploring the ever-expanding universe of cloud technologies.
 
-    ### **Jira** 📅
-       - Navigating the seas of project management with ease.
+## 🚀 DevOps
 
-    ## ☁️ Cloud Services
+### **DevOps** 🔄
+   - Bridging the gap between development and operations with finesse.
+   
+✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
 
-    ### **AWS** ☁️
-       - Soaring into the clouds with a powerful suite of cloud services.
-
-    ### **Cloud Services** ☁️
-       - Exploring the ever-expanding universe of cloud technologies.
-
-    ## 🚀 DevOps
-
-    ### **DevOps** 🔄
-       - Bridging the gap between development and operations with finesse.
-       
-    ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
-
-    📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
-     . Let's build amazing things together!
-
-  </div>
-
-</div>
+📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
+ . Let's build amazing things together!
