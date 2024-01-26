@@ -1,7 +1,5 @@
 # 👋 Hello there! I'm Sabahat Saeed. 
 
-![Background Banner](https://link-to-your-background-image.jpg)
-
 Welcome to my GitHub playground, where I shape digital wonders and explore the vast realms of technology. Join me on this journey through a landscape of code and creativity! 🚀
 
 ## 🌐 Web and Application Development
