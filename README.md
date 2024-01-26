@@ -2,10 +2,13 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and enjoy working with a variety of tools and frameworks. Here's a creative overview of the technologies I frequently use:
 
-## 💻 Operating System
+## 🐧 Operating Systems
 
 - **Linux** 🐧
   - Preferred operating system for development.
+
+- **macOS** 🍎
+  - Secondary operating system for certain development tasks.
 
 ## 🚀 Version Control and CI/CD
 
@@ -48,14 +51,14 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 ## 🌐 Web and Application Development
 
+- **Symfony** 🚀
+  - PHP web application framework with reusable components.
+
 - **Laravel** 🌐
   - PHP framework for web application development.
 
 - **Flutter** 🚀
   - UI toolkit for building natively compiled applications.
-
-- **Symfony** 🚀
-  - PHP web application framework with reusable components.
 
 ## 🚀 DevOps
 
