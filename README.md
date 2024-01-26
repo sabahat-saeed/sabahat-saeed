@@ -4,52 +4,52 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 ## Operating System
 
-- **Linux** ![Linux](linux.png =50x)
+- **Linux** ![Linux](linux.png)
   - Description: Preferred operating system for development.
 
 ## Version Control and CI/CD
 
-- **GitLab** ![GitLab](gitlab.svg =50x)
+- **GitLab** ![GitLab](gitlab.svg)
   - Description: Version control and CI/CD platform.
-- **Jenkins** ![Jenkins](jenkins.png =50x)
+- **Jenkins** ![Jenkins](jenkins.png)
   - Description: Automation server for building, testing, and deploying code.
 
 ## Build and Dependency Management
 
-- **Maven** ![Maven](maven.png =50x)
+- **Maven** ![Maven](maven.png)
   - Description: Build automation and project management tool.
 
 ## Containerization and Orchestration
 
-- **Docker** ![Docker](docker.png =50x)
+- **Docker** ![Docker](docker.png)
   - Description: Containerization platform for packaging, distributing, and running applications.
-- **Kubernetes** ![Kubernetes](kubernetes.png =50x)
+- **Kubernetes** ![Kubernetes](kubernetes.png)
   - Description: Container orchestration for automating deployment, scaling, and management of containerized applications.
 
 ## Project Management and Issue Tracking
 
-- **Jira** ![Jira](jira.png =50x)
+- **Jira** ![Jira](jira.png)
   - Description: Project management and issue tracking tool.
 
 ## Cloud Services
 
-- **AWS** ![AWS](aws.png =50x)
+- **AWS** ![AWS](aws.png)
   - Description: Cloud computing platform offering a wide range of services.
-- **Cloud Services** ![Cloud](cloud.png =50x)
+- **Cloud Services** ![Cloud](cloud.png)
   - Description: General reference to cloud services.
 
 ## Web and Application Development
 
-- **Laravel** ![Laravel](laravel.png =50x)
+- **Laravel** ![Laravel](laravel.png)
   - Description: PHP framework for web application development.
-- **Flutter** ![Flutter](flutter.png =50x)
+- **Flutter** ![Flutter](flutter.png)
   - Description: UI toolkit for building natively compiled applications for mobile, web, and desktop.
-- **Symfony** ![Symfony](symfony.png =50x)
+- **Symfony** ![Symfony](symfony.png)
   - Description: PHP web application framework with a set of reusable PHP components.
 
 ## DevOps
 
-- **DevOps** ![DevOps](devops.png =50x)
+- **DevOps** ![DevOps](devops.png)
   - Description: Cultural and professional movement that emphasizes communication and collaboration between software development and IT operations teams.
 
 ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
