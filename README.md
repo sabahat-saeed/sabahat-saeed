@@ -1,61 +1,66 @@
 # Hi there! 👋 I'm Sabahat Saeed. 
 
-Welcome to my GitHub profile! I'm passionate about technology and enjoy working with a variety of tools and frameworks. Here's a snapshot of the technologies I frequently use:
+Welcome to my GitHub profile! I'm passionate about technology and enjoy working with a variety of tools and frameworks. Here's a creative overview of the technologies I frequently use:
 
-## Operating System
+## 💻 Operating System
 
-- **Linux** <img src="linux.png" alt="Linux" width="30">
-  - Description: Preferred operating system for development.
+- **Linux** 🐧
+  - Preferred operating system for development.
 
-## Version Control and CI/CD
+## 🚀 Version Control and CI/CD
 
-- **GitLab** <img src="gitlab.svg" alt="GitLab" width="30">
-  - Description: Version control and CI/CD platform.
-- **Jenkins** <img src="jenkins.png" alt="Jenkins" width="30">
-  - Description: Automation server for building, testing, and deploying code.
+- **GitLab** 🦊
+  - Version control and CI/CD platform.
 
-## Build and Dependency Management
+- **Jenkins** ☁️
+  - Automation server for building, testing, and deploying code.
 
-- **Maven** <img src="maven.png" alt="Maven" width="30">
-  - Description: Build automation and project management tool.
+## 🛠️ Build and Dependency Management
 
-## Containerization and Orchestration
+- **Maven** 🛠️
+  - Build automation and project management tool.
 
-- **Docker** <img src="docker.png" alt="Docker" width="30">
-  - Description: Containerization platform for packaging, distributing, and running applications.
-- **Kubernetes** <img src="kubernetes.png" alt="Kubernetes" width="30">
-  - Description: Container orchestration for automating deployment, scaling, and management of containerized applications.
+## 🐳 Containerization and Orchestration
 
-## Infrastructure as Code
+- **Docker** 🐳
+  - Containerization platform for packaging, distributing, and running applications.
 
-- **Terraform** <img src="terraform.png" alt="Terraform" width="30">
-  - Description: Infrastructure as Code (IaC) tool for provisioning and managing infrastructure.
+- **Kubernetes** ☸️
+  - Container orchestration for automating deployment, scaling, and management.
 
-## Project Management and Issue Tracking
+## ☁️ Infrastructure as Code
 
-- **Jira** <img src="jira.png" alt="Jira" width="30">
-  - Description: Project management and issue tracking tool.
+- **Terraform** 🌍
+  - Infrastructure as Code (IaC) tool for provisioning and managing infrastructure.
 
-## Cloud Services
+## 📊 Project Management and Issue Tracking
 
-- **AWS** <img src="aws.png" alt="AWS" width="30">
-  - Description: Cloud computing platform offering a wide range of services.
-- **Cloud Services** <img src="cloud.png" alt="Cloud Services" width="30">
-  - Description: General reference to cloud services.
+- **Jira** 📅
+  - Project management and issue tracking tool.
 
-## Web and Application Development
+## ☁️ Cloud Services
 
-- **Laravel** <img src="laravel.png" alt="Laravel" width="30">
-  - Description: PHP framework for web application development.
-- **Flutter** <img src="flutter.png" alt="Flutter" width="30">
-  - Description: UI toolkit for building natively compiled applications for mobile, web, and desktop.
-- **Symfony** <img src="symfony.png" alt="Symfony" width="30">
-  - Description: PHP web application framework with a set of reusable PHP components.
+- **AWS** ☁️
+  - Cloud computing platform offering a wide range of services.
 
-## DevOps
+- **Cloud Services** ☁️
+  - General reference to cloud services.
 
-- **DevOps** <img src="devops.png" alt="DevOps" width="30">
-  - Description: Cultural and professional movement that emphasizes communication and collaboration between software development and IT operations teams.
+## 🌐 Web and Application Development
+
+- **Laravel** 🌐
+  - PHP framework for web application development.
+
+- **Flutter** 🚀
+  - UI toolkit for building natively compiled applications.
+
+- **Symfony** 🚀
+  - PHP web application framework with reusable components.
+
+## 🚀 DevOps
+
+- **DevOps** 🔄
+  - Cultural and professional movement emphasizing communication and collaboration.
     
 ✨ I'm always eager to learn and adapt to new technologies and industry best practices. If you're interested in collaborating or have any questions, feel free to reach out!
 
