@@ -16,8 +16,7 @@ I'm not just your average Software Engineer – I'm a code virtuoso with a pench
 
 ## 🌐 Connect with Me
 
-- 🌍 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed)
-- 📧 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
+📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabahat-saeed) or [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:sabahatsaeed31@gmail.com)
 
 ## 🚀 What I Bring to the Table
 
